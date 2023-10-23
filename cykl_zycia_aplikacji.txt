@@ -1,0 +1,32 @@
+• Po pierwszym uruchomieniu aplikacji:
+2023-10-23 14:29:00.032  9872-9872  MainActivity            com.example.quiz                     D  Wywołana została metoda cyklu życia: onCreate
+2023-10-23 14:29:00.270  9872-9872  MainActivity            com.example.quiz                     D  Wywołana została metoda cyklu życia: onStart
+2023-10-23 14:29:00.275  9872-9872  MainActivity            com.example.quiz                     D  Wywołana została metoda cyklu życia: onResume
+
+• Po wciśnięciu przycisku "Cofnij":
+2023-10-23 14:30:05.545  9872-9872  MainActivity            com.example.quiz                     D  Wywołana została metoda cyklu życia: onPause
+2023-10-23 14:30:06.074  9872-9872  MainActivity            com.example.quiz                     D  Wywołana została metoda cyklu życia: onStop
+2023-10-23 14:30:06.077  9872-9872  MainActivity            com.example.quiz                     D  Wywołana została metoda cyklu życia: onDestroy
+
+• Po ponownym uruchomieniu aplikacji:
+2023-10-23 14:31:39.936  9975-9975  MainActivity            com.example.quiz                     D  Wywołana została metoda cyklu życia: onCreate
+2023-10-23 14:31:40.105  9975-9975  MainActivity            com.example.quiz                     D  Wywołana została metoda cyklu życia: onStart
+2023-10-23 14:31:40.108  9975-9975  MainActivity            com.example.quiz                     D  Wywołana została metoda cyklu życia: onResume
+
+• Po wciśnięciu przycisku ekranu głównego "Home":
+2023-10-23 14:32:52.547  9975-9975  MainActivity            com.example.quiz                     D  Wywołana została metoda cyklu życia: onPause
+2023-10-23 14:32:53.037  9975-9975  MainActivity            com.example.quiz                     D  Wywołana została metoda cyklu życia: onStop
+
+• Po powrocie do aplikacji z listy ostatnio używanych aplikacji:
+2023-10-23 14:34:01.955  9975-9975  MainActivity            com.example.quiz                     D  Wywołana została metoda cyklu życia: onRestart
+2023-10-23 14:34:01.956  9975-9975  MainActivity            com.example.quiz                     D  Wywołana została metoda cyklu życia: onStart
+2023-10-23 14:34:01.957  9975-9975  MainActivity            com.example.quiz                     D  Wywołana została metoda cyklu życia: onResume
+
+Obrócenie ekranu:
+2023-10-23 14:35:42.129  9975-9975  MainActivity            com.example.quiz                     D  Wywołana została metoda cyklu życia: onPause
+2023-10-23 14:35:42.136  9975-9975  MainActivity            com.example.quiz                     D  Wywołana została metoda cyklu życia: onStop
+2023-10-23 14:35:42.137  9975-9975  MainActivity            com.example.quiz                     D  Wywołana została metoda: onSaveInstanceState
+2023-10-23 14:35:42.138  9975-9975  MainActivity            com.example.quiz                     D  Wywołana została metoda cyklu życia: onDestroy
+2023-10-23 14:35:42.189  9975-9975  MainActivity            com.example.quiz                     D  Wywołana została metoda cyklu życia: onCreate
+2023-10-23 14:35:42.262  9975-9975  MainActivity            com.example.quiz                     D  Wywołana została metoda cyklu życia: onStart
+2023-10-23 14:35:42.266  9975-9975  MainActivity            com.example.quiz                     D  Wywołana została metoda cyklu życia: onResume
